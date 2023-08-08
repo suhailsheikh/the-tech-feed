@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # the-tech-feed
 
 A simple blog app using Next.js 13
